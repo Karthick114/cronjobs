@@ -4,8 +4,8 @@ on:
     branches: [ main, master ]
   pull_request:
     branches: [ main, master ]
-    schedule:
-     - cron: '*/5 * * * *'
+  schedule:
+    - cron: '*/5 * * * *'
 
 permissions:
   contents: write
