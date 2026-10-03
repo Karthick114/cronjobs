@@ -1,0 +1,24 @@
+CREATE: Employee inserted
+Inserted ID: 6ac0637662061b9536393094
+READ: Employee found
+{
+  _id: new ObjectId('6ac0637662061b9536393094'),
+  name: 'TestUser',
+  age: 25,
+  role: 'Automation Tester',
+  experience: 3,
+  city: 'Chennai'
+}
+UPDATE: Experience changed from 3 to 4
+READ after UPDATE:
+{
+  _id: new ObjectId('6ac0637662061b9536393094'),
+  name: 'TestUser',
+  age: 25,
+  role: 'Automation Tester',
+  experience: 4,
+  city: 'Chennai'
+}
+DELETE: Employee deleted
+READ after DELETE: Employee not found
+MongoDB CRUD test completed
