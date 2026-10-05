@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1055","get started link","chromium","2026-10-05","passed","2026-10-05","","example.spec.js","",""
+"","968","has title","chromium","2026-10-05","passed","2026-10-05","","example.spec.js","",""
+"","495","MongoDB Employee CRUD Operations","chromium","2026-10-05","passed","2026-10-05","","mongocrud.spec.js","",""
